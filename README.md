@@ -1,4 +1,4 @@
-# Family_for_polymorphism
+# Family
 
 #### 다형성을 통해 구현한 가족
 

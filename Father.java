@@ -1,4 +1,3 @@
-package com.nadan.java.polymorphism;
 
 public class Father {
 	
@@ -6,7 +5,7 @@ public class Father {
 	private int age;
 	
 	public void goWork(){
-		System.out.println("일하러 갑니다");
+		System.out.println("Go to work");
 	}
 	
 	public String getName() {

@@ -36,12 +36,12 @@ public class Father {
 
 ```java
 public class Son extends Father {
-  // 아들클래스의 속성
-  public void goSchool(){
-  	System.out.println("학교에 갑니다");
-  }
+	// 아들클래스의 속성
+	public void goSchool(){
+		System.out.println("학교에 갑니다");
+	}
 
-  // 공통속성
+	// 공통속성
 	@Override
 	public void goWork(){
 		super.goWork();
